@@ -156,7 +156,7 @@ tpfoyer/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/tayaria/tpFoyer
+git clone https://github.com/tayaria/tpFoyer.git
 cd tpFoyer
 ```
 
